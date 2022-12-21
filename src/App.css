@@ -1,0 +1,24 @@
+/* add your styles here */
+
+.Container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.pictureContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 5em;
+    
+}
+
+.pictures{
+    height: 200px;
+    width: 200px;
+    box-shadow: 1px 1px 10px black;
+    border-radius: 0.5em;
+}
