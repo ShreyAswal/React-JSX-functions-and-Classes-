@@ -39,8 +39,7 @@ export default class AppClass extends Component{
 
       })}
       </div>
-
-      
+       
     </div>
 
   )
